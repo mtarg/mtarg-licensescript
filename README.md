@@ -29,7 +29,7 @@ Follow these simple steps to integrate the MTARG license script into your MTA se
 
 ### Step 3: Add to Server Config
 1. delete your server's `mtaserver.conf` file.
-2. Go to the [GitHub Repository]([https://github.com/mtarg/mtarg-licensescript/tree/main](https://github.com/mtarg/mtarg-gamemode)).
+2. Go to the [GitHub Repository](https://github.com/mtarg/mtarg-licensescript/tree/main](https://github.com/mtarg/mtarg-gamemode).
 3. download and add your server's `mtaserver.conf` file.
 4. Add the resource start command:
    ```xml
