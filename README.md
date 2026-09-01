@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.image2url.com/dashboard" alt="MTARG Logo" width="150"/>
+  <img src="https://kgjfiburuprozfdykmvl.supabase.co/storage/v1/object/public/image/logo.png" alt="MTARG Logo" width="150"/>
 </p>
 
 <h1 align="center">MTARG License Script</h1>
