@@ -2,7 +2,7 @@
 
 How add Your Mta server
 
-main web = mtarg.xyz
+main web = https://mtarg.xyz/
 
 logo = https://www.image2url.com/dashboard
 
