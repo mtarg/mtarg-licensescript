@@ -5,7 +5,7 @@
 <h1 align="center">MTARG License Script</h1>
 
 <p align="center">
-  <b>A secure and reliable licensing system for your Multi Theft Auto (MTA) server resources.</b>
+  <b>A secure and reliable licensing system for your (MTARG) server resources.</b>
 </p>
 
 <p align="center">
@@ -15,6 +15,8 @@
 ---
 
 ## 🚀 How to Add to Your MTA Server
+
+image to url = banner and logo = https://www.image2url.com/dashboard
 
 Follow these simple steps to integrate the MTARG license script into your MTA server:
 
